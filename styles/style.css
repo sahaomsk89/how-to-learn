@@ -287,30 +287,18 @@
   padding: 0 0 20px 0;
 }
 
-.footer__column-links {
-  font-size: 18px;
-  line-height: 30px;
-  font-weight: normal;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
 .footer__column-link {
   margin: 0;
   color: #2f80ed;
   text-decoration: none;
   display: block;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: normal;
 }
 
 .footer__social-icon {
   padding: 0 10px 0 0;
   width: 16px;
   height: 16px;
-}
-
-.footer__column-link {
-  font-size: 18px;
-  line-height: 30px;
-  font-weight: normal;
 }
