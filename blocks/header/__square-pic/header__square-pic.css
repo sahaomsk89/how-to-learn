@@ -1,0 +1,10 @@
+.header__square-pic {
+    height: 568px;
+    width: 568px;
+    background: url(../../../images/header-square.png);
+    background-size: cover;
+    position: absolute;
+    top: 64px;
+    right: 0px;
+    z-index: -3;
+}
